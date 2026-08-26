@@ -12,9 +12,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,js&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,js&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,js&amp;theme=light" alt="Python, Flask, SQLite, HTML, CSS e JavaScript" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cflask%2Csqlite%2Chtml%2Ccss%2Cjs&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cflask%2Csqlite%2Chtml%2Ccss%2Cjs&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=python%2Cflask%2Csqlite%2Chtml%2Ccss%2Cjs&amp;theme=light" alt="Python, Flask, SQLite, HTML, CSS e JavaScript" />
   </picture>
 </p>
 
