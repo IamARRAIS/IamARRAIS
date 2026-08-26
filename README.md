@@ -1,48 +1,57 @@
-<h1 align="center">Guilherme Arrais</h1>
+<h1 data-importer="text" align="center">ItsPMR</h1>
 
-<p align="center">
-  <strong>@IamARRAIS</strong>
-</p>
+###
 
-<p align="center">
-  Em formação na área de tecnologia, desenvolvendo projetos e consolidando conhecimentos em desenvolvimento web.
-</p>
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+</div>
 
-<h2 align="center">Tecnologias</h2>
+###
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cflask%2Csqlite%2Chtml%2Ccss%2Cjs&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cflask%2Csqlite%2Chtml%2Ccss%2Cjs&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=python%2Cflask%2Csqlite%2Chtml%2Ccss%2Cjs&amp;theme=light" alt="Python, Flask, SQLite, HTML, CSS e JavaScript" />
-  </picture>
-</p>
-
-<h2 align="center">Contato</h2>
-
-<p align="center">
-  <!-- SUBSTITUA_LINKEDIN_AQUI caso este endereço seja apenas um placeholder. -->
-  <a href="https://www.linkedin.com/in/guilherme-arrais-ds">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+<div data-importer="socials" align="center">
+  <a href="www.linkedin.com/in/pietropmr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <!-- SUBSTITUA_EMAIL_AQUI caso este endereço seja apenas um placeholder. -->
-  <a href="mailto:guilherme.arraisdossantos@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" />
+  <a href="https://www.instagram.com/p2_pmr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-</p>
+</div>
 
-<h2 align="center">Estatísticas do GitHub</h2>
+###
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamARRAIS&amp;theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamARRAIS&amp;theme=github" />
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamARRAIS&amp;theme=github" alt="Estatísticas do GitHub de IamARRAIS" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamARRAIS&amp;theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamARRAIS&amp;theme=github" />
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamARRAIS&amp;theme=github" alt="Linguagens mais utilizadas por IamARRAIS" />
-  </picture>
-</p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/itsPMR/itsPMR/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/itsPMR/itsPMR/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsPMR/itsPMR/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsPMR/itsPMR/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itsPMR/itsPMR/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
