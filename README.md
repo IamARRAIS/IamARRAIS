@@ -34,14 +34,7 @@
 <h2 align="center">Estatísticas do GitHub</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamARRAIS&amp;theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamARRAIS&amp;theme=github" />
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamARRAIS&amp;theme=github" alt="Estatísticas do GitHub de IamARRAIS" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamARRAIS&amp;theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamARRAIS&amp;theme=github" />
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamARRAIS&amp;theme=github" alt="Linguagens mais utilizadas por IamARRAIS" />
-  </picture>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=IamARRAIS&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt-br&amp;include_all_commits=true&amp;custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20IamARRAIS" alt="Estatísticas do GitHub de IamARRAIS" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IamARRAIS&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6&amp;locale=pt-br&amp;custom_title=Linguagens%20mais%20utilizadas" alt="Linguagens mais utilizadas por IamARRAIS" />
 </p>
+
