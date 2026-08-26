@@ -35,14 +35,14 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=IamARRAIS&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;locale=pt-br" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=IamARRAIS&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;locale=pt-br" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=IamARRAIS&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;locale=pt-br" alt="Estatísticas do GitHub de IamARRAIS" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamARRAIS&amp;theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamARRAIS&amp;theme=github" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamARRAIS&amp;theme=github" alt="Estatísticas do GitHub de IamARRAIS" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IamARRAIS&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;locale=pt-br" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IamARRAIS&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;locale=pt-br" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamARRAIS&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;locale=pt-br" alt="Linguagens mais utilizadas por IamARRAIS" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamARRAIS&amp;theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamARRAIS&amp;theme=github" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamARRAIS&amp;theme=github" alt="Linguagens mais utilizadas por IamARRAIS" />
   </picture>
 </p>
 
