@@ -12,9 +12,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cflask%2Csqlite%2Chtml%2Ccss%2Cjs&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cflask%2Csqlite%2Chtml%2Ccss%2Cjs&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=python%2Cflask%2Csqlite%2Chtml%2Ccss%2Cjs&amp;theme=light" alt="Python, Flask, SQLite, HTML, CSS e JavaScript" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode%2Cgit%2Cgithub%2Cpython%2Cts%2Cjs%2Ccss%2Chtml%2Cazure&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode%2Cgit%2Cgithub%2Cpython%2Cts%2Cjs%2Ccss%2Chtml%2Cazure&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode%2Cgit%2Cgithub%2Cpython%2Cts%2Cjs%2Ccss%2Chtml%2Cazure&amp;theme=light" alt="Visual Studio Code, Git, GitHub, Python, TypeScript, JavaScript, CSS, HTML e Azure" />
   </picture>
 </p>
 
@@ -45,3 +45,4 @@
     <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamARRAIS&amp;theme=github" alt="Linguagens mais utilizadas por IamARRAIS" />
   </picture>
 </p>
+
