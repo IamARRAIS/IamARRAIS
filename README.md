@@ -45,6 +45,3 @@
     <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamARRAIS&amp;theme=github" alt="Linguagens mais utilizadas por IamARRAIS" />
   </picture>
 </p>
-![](https://github-readme-stats.shion.dev/api?username=IamARRAIS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=IamARRAIS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=IamARRAIS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
